@@ -1,4 +1,4 @@
-# Thought Process
+# Thought Process while creating this Chrome Extension
 
 This is just for fun. Nothing to hurt anyone.
 
