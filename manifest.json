@@ -1,0 +1,20 @@
+{
+  "name": "Office Hours Left",
+  "version": "0.1.0",
+  "description": "Tells Office Mood According to Office time left",
+  "permissions": [],
+  "host_permissions": [],
+  "background": {},
+  "content_scripts": [],
+  "web_accessible_resources": [],
+  "action": {
+    "default_icon": {
+      "16": "assets/favicon.ico",
+      "24": "assets/favicon.ico",
+      "32": "assets/favicon.ico"
+    },
+    "default_title": "Office Hours Left",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 3
+}
