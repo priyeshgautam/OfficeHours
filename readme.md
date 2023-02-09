@@ -10,6 +10,8 @@ FreeCodeCamp Blogpost [link](https://www.freecodecamp.org/news/building-chrome-e
 
 Chrome API reference [link](https://developer.chrome.com/docs/extensions/reference/)
 
+Read more about Manifest.json [link](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json)
+
 ## About
 
 1. Show Digital Clock with seconds [ DOMContentLoaded set to at an interval of 1sec ]
