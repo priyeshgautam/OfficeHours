@@ -52,12 +52,13 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-#Installing
+## Installing
+
 1. Goto chrome://extensions/
 2. Enable developer option
 3. Click on load unpacked and select the project folder
 
-#Screenshots
+## Screenshots
 
 screenshot 1
 ![Drowsy](https://github.com/priyeshgautam/OfficeHours/blob/main/screenshots/main.png?raw=true)
